@@ -2,5 +2,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/cpanelUser/public_html/
+    - export DEPLOYPATH=/home5/beshibuy/repositories/beauty/
     - /bin/cp -R * $DEPLOYPATH
